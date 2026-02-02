@@ -48,5 +48,5 @@ emphasis on Earth observation, environmental modeling, and GeoAI.
 ---
 
 ## Contact
-- LinkedIn: YOUR_LINK
-- Email: YOUR_EMAIL
+- LinkedIn: www.linkedin.com/in/krishna-cm
+- Email: mt68291@umbc.edu
