@@ -27,7 +27,8 @@ I am a graduate student in Geographic Information Systems (GIS) at the Universit
 | Green Space Accessibility (Baltimore) | Spatial analysis of access and demographic patterns | Completed |
 | Transit Accessibility (Montgomery County) | GIS-based evaluation of transit access in new developments | Completed |
 | GeoAI & LLM Experiments | Exploratory use of LLMs for geospatial analysis workflows | Ongoing |
-| [Spatial analysis on Baltimore Vacant Properties](./Final%20Project/) | Spatial analysis of vacant properties and related spatial patterns in Baltimore | In progress |
+| [Spatial analysis on Baltimore Vacant Properties](https://github.com/Kchaitanya30/Public-and-Crowdsourced-Spatial-Data-Projects/tree/main/Final%20Project) | Spatial analysis of vacant properties and related spatial patterns in Baltimore | In progress |
+
 
 
 ---
