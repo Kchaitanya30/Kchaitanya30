@@ -23,7 +23,7 @@ I am a graduate student in Geographic Information Systems (GIS) at the Universit
 
 | Project | Description | Status |
 |------|------------|--------|
-| PACE Hypoxia Analysis | Satellite–in situ analysis of hypoxia-related indicators | In progress |
+| PACE Hypoxia Analysis | Satellite–in situ analysis of hypoxia-related indicators | Completed |
 | Green Space Accessibility (Baltimore) | Spatial analysis of access and demographic patterns | Completed |
 | Transit Accessibility (Montgomery County) | GIS-based evaluation of transit access in new developments | Completed |
 | GeoAI & LLM Experiments | Exploratory use of LLMs for geospatial analysis workflows | Ongoing |
