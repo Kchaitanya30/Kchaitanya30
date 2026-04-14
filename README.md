@@ -108,4 +108,4 @@ I am preparing for doctoral study or research-focused roles in geospatial scienc
 
 ---
 
-*📬 Reach me at [mt68291@umbc.edu](mailto:mt68291@umbc.edu) · [LinkedIn](https://linkedin.com/in/krishna-cm) · [Portfolio](https://kchaitanya30.github.io)*
+*📬 Reach me at [mt68291@umbc.edu](mailto:mt68291@umbc.edu) · [LinkedIn](https://linkedin.com/in/krishna-cm) · [Portfolio]((https://kchaitanya30.github.io/Portfolio/))*
