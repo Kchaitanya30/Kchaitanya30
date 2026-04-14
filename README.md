@@ -4,7 +4,7 @@
 M.S. GIS @ UMBC | GeoAI & Environmental Applications | MTIP Grant Fellow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krishna--cm-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/krishna-cm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2b6cb0?style=flat&logo=google-chrome)](https://kchaitanya30.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2b6cb0?style=flat&logo=google-chrome)](https://kchaitanya30.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-mt68291@umbc.edu-D14836?style=flat&logo=gmail)](mailto:mt68291@umbc.edu)
 
 ---
